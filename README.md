@@ -1,1 +1,1 @@
-# Projects
+This is a collection of projects I've done in the past that I felt were worthy of display.
