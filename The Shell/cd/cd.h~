@@ -1,0 +1,3 @@
+#include "../linkedList/linkedList.h"
+
+int changeDirectory(char *s);

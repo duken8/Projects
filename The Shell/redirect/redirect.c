@@ -1,0 +1,23 @@
+#include "redirect.h"
+
+int containsOut(char * s)
+{
+	int x, out = 0;
+	for(x = 0; x < strlen(s) - 1; x++)
+	{
+		if(s[x] == '>')
+			out++;
+	}
+	return out;
+}//end containsRedirect
+
+int containsIn(char * s)
+{
+	int x, in = 0;
+	for(x = 0; x < strlen(s) - 1; x++)
+	{
+		if(s[x] == '<')
+			in++;
+	}
+	return in;
+}//end containsIn
