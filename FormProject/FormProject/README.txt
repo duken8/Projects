@@ -1,0 +1,5 @@
+-The menu bar has hotkeys using alt combined with the associated key.
+-The toolbar, menubar, and buttons all take do the same things.
+-You can write to an existing database or specify a new one and it will create it within the project debug folder.
+-SQL Query Form has an auto sizing datagrid and you can enlarge the window to expand if entries are large.
+-File System Watcher watches sub directories and entering any extension (ex, ".bmp") will work.
